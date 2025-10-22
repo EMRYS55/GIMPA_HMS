@@ -1,0 +1,7 @@
+# GIMPA Hostel Management System (HMS) - Core Features
+
+1. Student Management
+2. Room & Allocation Management
+3. Financial Management (Fee tracking)
+4. Admin/Security
+
